@@ -1,4 +1,7 @@
 venv/
 stablediffusion_test/
-stool_emoji_types
-stylegan2-ada-pytorch
+stool_emoji_types/
+stylegan2-ada-pytorch/
+extra_test_images/
+imgaug_ugmented/
+imgaug_test/
